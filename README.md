@@ -1,0 +1,2 @@
+# LC
+langage C
